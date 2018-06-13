@@ -1,0 +1,32 @@
+.Cars-List{
+    background-color: rgb(15, 240, 27);
+    box-shadow: 5px 5px 8px 5px #888888;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+
+
+.spacer{
+    height: 10px;
+}
+
+.button-transaction-new{
+    color: white;
+    font-weight: bold;
+    background-color: green;
+    box-shadow: 1px 0.5px 0.5px 2px #888888;
+    margin: 10px;
+    position: relative;
+}
+
+
+.new-button-div{
+    margin-left:auto; 
+    margin-right:0;
+}
+
+.hash-value{
+    background-color: rgb(169, 248, 169);
+}
